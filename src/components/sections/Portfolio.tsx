@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { PORTFOLIO } from "../../utils/data";
-import { ExternalLink, Globe } from "lucide-react";
+import { Globe } from "lucide-react";
 
 export function Portfolio() {
   return (

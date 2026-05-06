@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import { TEAM_MEMBERS, STATS } from "../../utils/data";
-import { Globe, Briefcase, Mail } from "lucide-react";
 
 export function About() {
   return (

@@ -1,5 +1,5 @@
 import { motion, AnimatePresence } from "framer-motion";
-import { Globe, Mail, Send, Phone, MapPin, Code, Briefcase, CheckCircle2 } from "lucide-react";
+import { Mail, Send, Phone, MapPin, CheckCircle2 } from "lucide-react";
 import { CONTACT_INFO, TEAM_MEMBERS } from "../../utils/data";
 import { useForm, ValidationError } from '@formspree/react';
 
