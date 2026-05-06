@@ -51,7 +51,7 @@ export function Navbar() {
           className="flex items-center gap-2 text-2xl font-bold tracking-tighter"
         >
           <div className="rounded-full overflow-hidden">
-            <img src={logoImg} alt="CodeMasters Logo" className="w-8 h-8 object-contain bg-white/10" />
+            <img src={favicon-circle} alt="CodeMasters Logo" className="w-8 h-8 object-contain bg-white/10" />
           </div>
           <span>CODE<span className="text-accent">MASTERS</span></span>
         </motion.a>
